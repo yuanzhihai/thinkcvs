@@ -1,0 +1,25 @@
+{
+  "name": "yzh52521/thinkcsv",
+  "description": "支持并发百万的协程场景导出csv,csv处理组件,导入导出csv",
+  "homepage": "https://github.com/yzh52521/thinkcsv",
+  "license": "Apache-2.0",
+  "minimum-stability": "stable",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "yzh52521",
+      "email": "396751927@qq.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/yzh52521/thinkcsv/issues"
+  },
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "yzh52521\\": "src/"
+    }
+  }
+}
